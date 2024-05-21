@@ -7,3 +7,10 @@ Requsitos previos:
   <li>Activar la facturación (no procedera cobro a menos que utilice los creditos de la capa gratuita</li>
   <li>Crear un proyecto</li>
 </ul>
+
+Servicios de la nube de GCP utilizados
+<ul>
+  <li>Cloud Storage - Buckets</li>
+  <li>Cloud Functions</li>
+  <li>Cloud Vision API</li>
+</ul>
